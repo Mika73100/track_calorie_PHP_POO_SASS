@@ -1,0 +1,26 @@
+{
+  "name": "alimentation",
+  "version": "1.0.0",
+  "description": "Application gestion des calories",
+  "main": "index.js",
+  "scripts": {
+    "buildsass": "sass assets/scss/app.scss assets/css/app.min.css --watch --style=compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemodule": "^0.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mika73100/Appli-mobile-alimentation-PHP-JS-SASS-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mika73100/Appli-mobile-alimentation-PHP-JS-SASS-/issues"
+  },
+  "homepage": "https://github.com/Mika73100/Appli-mobile-alimentation-PHP-JS-SASS-#readme",
+  "directories": {
+    "doc": "doc"
+  }
+}
