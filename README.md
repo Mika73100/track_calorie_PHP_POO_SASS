@@ -1,9 +1,85 @@
+Voici un `README.md` bien propre, clair, et structuré pour ton projet **Track Calorie**, avec le ton sympa et professionnel que tu as utilisé 👇
+
+---
+
+
 <div align="center">
 
-        🍉 Track calorie 🔝
+# 🍉 Track Calorie 🔝
 
-<img src="2842951.png">
+<img src="2842951.png" alt="aperçu de l'application" width="300"/>
 
-L'idée est très simple, je souhaiterai pouvoir créer un profil (prénom, age, sexe, taille & poids), ça me calculerait automatiquement mon IMC. Ensuite je pourrais tous les jours, ajouter tous les repas pris en indiquant le repas, les calories et l'heure (automatique peut être). Il y aurait un indicateur pour me dire si j'ai débordé ou non.
-        
+---
+
+### 🛠️ Réalisé avec **Next.js**, **PHP**, **HTML**, **CSS** & **JavaScript**
+
+---
+
+### 🧠 Concept du projet
+
+L’idée est simple et utile :  
+Créer une **application de suivi de calories** quotidienne, basée sur un **profil utilisateur personnalisé**.
+
+L’utilisateur peut créer un profil avec :
+- Prénom
+- Âge
+- Sexe
+- Taille
+- Poids  
+
+L’application calcule ensuite automatiquement l’**IMC** (Indice de Masse Corporelle).  
+Chaque jour, l’utilisateur peut ajouter ses repas avec les détails suivants :
+- 🍽️ Nom du repas
+- 🔥 Calories consommées
+- ⏰ Heure du repas (générée automatiquement)
+
+Un **indicateur visuel** informe l’utilisateur s’il a dépassé ou non la limite journalière recommandée.  
+Idéal pour une remise en forme ou simplement garder un œil sur son alimentation 💪
+
+</div>
+
+---
+
+## 🚀 Fonctionnalités
+
+- 👤 Création de profil avec données personnelles
+- 📊 Calcul automatique de l’IMC
+- 🍱 Ajout de repas avec calories et heure
+- 📅 Suivi journalier des repas
+- ⚠️ Indicateur de dépassement calorique
+- 🧮 Possibilité d’analyser sa progression dans le temps *(à venir)*
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/TonPseudo/track-calorie.git
+cd track-calorie
+npm install
+npm run dev
+```
+
+> ⚠️ Assurez-vous d’avoir **Node.js** et **PHP** installés pour l’API backend éventuelle
+
+---
+
+## 🧰 Technologies utilisées
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+---
+
+🙌 Remerciements  
+Merci d’avoir consulté ce projet ! Il s’agit d’un **exercice personnel**, pensé pour allier **santé** et **code**.  
+N’hésitez pas à tester l’app, l’améliorer ou même contribuer ✨
+
+<div align="center">
+
+⭐ *Un petit like sur le repo fait toujours plaisir !* ⭐
+
 </div>
