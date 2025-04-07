@@ -7,7 +7,7 @@ Voici un `README.md` bien propre, clair, et structuré pour ton projet **Track C
 
 # 🍉 Track Calorie 🔝
 
-<img src="2842951.png" alt="aperçu de l'application" width="300"/>
+<img src="2842951.png" alt="aperçu de l'application" width="600"/>
 
 ---
 
@@ -66,7 +66,6 @@ npm run dev
 
 ## 🧰 Technologies utilisées
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
