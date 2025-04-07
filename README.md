@@ -1,8 +1,3 @@
-Voici un `README.md` bien propre, clair, et structuré pour ton projet **Track Calorie**, avec le ton sympa et professionnel que tu as utilisé 👇
-
----
-
-
 <div align="center">
 
 # 🍉 Track Calorie 🔝
